@@ -1,5 +1,7 @@
 # NumberCrush
-Projet d'Algorithmique de 1ère année de DUT Info en C++ (en procédural). 
+[**Two-year university degree in technology**][**Year 1**][**Algorithmic class**] 
 
-Il s'agit d'un CandyCrush-like jouable sous terminal (Linux).
-Chaque tour, le joueur doit essayer d'aligner 3 (ou plus) nombres identiques. 
+Project done in procedural C++.
+
+CandyCrush-like playable on a (linux) terminal.
+Each round, the player must try to align 3, or more, same numbers.

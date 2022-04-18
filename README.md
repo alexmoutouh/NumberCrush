@@ -1,5 +1,5 @@
 # NumberCrush
-[**Two-year university degree in technology**][**Year 1**][**Algorithmic class**] 
+[**Two-year university degree in technology**][**Computer science**][**Year 1**][**Algorithmic class**] 
 
 Project done in procedural C++.
 
